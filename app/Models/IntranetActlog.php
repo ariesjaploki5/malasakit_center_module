@@ -13,5 +13,5 @@ class IntranetActlog extends Model
         'act_details',
     ];
 
-
+    
 }
